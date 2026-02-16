@@ -1,2 +1,2 @@
-Hello jenny 
-Learning Git basics
+Hi jenny 
+
